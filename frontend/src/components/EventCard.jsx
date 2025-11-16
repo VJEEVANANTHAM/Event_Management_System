@@ -241,14 +241,10 @@ export default function EventCard({ event }) {
                             fontSize: 13,
                           }}
                         >
-                          <div className="avatar">
-                            {p.name.charAt(0).toUpperCase()}
+                          <div className="tick">
                           </div>
                           <div style={{ marginLeft: 6 }}>
                             <strong style={{ fontSize: 13 }}>{p.name}</strong>
-                            <div style={{ fontSize: 11, color: "#6b7280" }}>
-                              {p.timezone}
-                            </div>
                           </div>
                         </div>
                       ))
