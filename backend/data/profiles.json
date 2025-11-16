@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "1763207718457krs5h3e20",
+    "name": "user 1",
+    "timezone": "UTC",
+    "createdAt": "2025-11-15T11:55:18.457Z",
+    "updatedAt": "2025-11-15T11:55:18.457Z"
+  },
+  {
+    "_id": "1763214670077wuzsbw7u4",
+    "name": "aa",
+    "timezone": "America/Los_Angeles",
+    "createdAt": "2025-11-15T13:51:10.077Z",
+    "updatedAt": "2025-11-15T13:51:10.077Z"
+  },
+  {
+    "_id": "1763215512673whea6jgax",
+    "name": "as",
+    "timezone": "Europe/London",
+    "createdAt": "2025-11-15T14:05:12.673Z",
+    "updatedAt": "2025-11-15T14:05:12.673Z"
+  }
+]

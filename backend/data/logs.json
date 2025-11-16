@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "1763207750149xk0fto2q0",
+    "event": "1763207750147aoyibn0bp",
+    "changedByProfile": null,
+    "timestampUTC": "2025-11-15T11:55:50.149Z",
+    "diff": {
+      "previous": null,
+      "current": {
+        "startUTC": "2025-11-28T17:25:00.000Z",
+        "endUTC": "2025-12-06T06:26:00.000Z",
+        "eventTimezone": "UTC",
+        "profiles": [
+          "1763207718457krs5h3e20"
+        ],
+        "title": "aaa"
+      }
+    }
+  }
+]
